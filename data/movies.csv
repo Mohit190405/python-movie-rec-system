@@ -1,0 +1,118 @@
+title           , genres                           , overview
+The Dark Knight , "Action Crime Drama"             , "A masked hero fights crime in Gotham City."
+Inception       , "Action Sci-Fi Thriller"         , "A skilled thief enters the dreams of others to steal secrets."
+Interstellar    , "Adventure Drama Sci-Fi"         , "A group of explorers travel through space searching for a new home."
+The Matrix      , "Action Sci-Fi"                  , "A computer hacker discovers that reality is not what it seems."
+The Martian     , "Adventure Drama Sci-Fi"         , "An astronaut becomes stranded on Mars and must find a way to survive."
+Gravity         , "Drama Sci-Fi Thriller"          , "An astronaut struggles to survive after an accident in space."
+Arrival         , "Drama Sci-Fi Mystery"           , "A linguist works to communicate with mysterious visitors from another world."
+Avatar          , "Action Adventure Fantasy Sci-Fi", "A marine discovers a new world and becomes involved in a conflict."
+Titanic         , "Drama Romance"                  , "Two people from different social backgrounds fall in love aboard a famous ship."
+The Notebook    , "Drama Romance"                  , "A couple experiences a complicated and enduring love story."
+Avengers Endgame, "Action Adventure Sci-Fi"        , "Heroes join together to face a powerful threat."
+Iron Man        , "Action Adventure Sci-Fi"        , "A brilliant inventor builds a powerful armored suit."
+Doctor Strange  , "Action Adventure Fantasy"       , "A surgeon discovers the mystical arts after a life-changing accident."
+Jurassic Park   , "Adventure Sci-Fi Thriller"      , "Scientists create a theme park containing genetically engineered dinosaurs."
+Terminator 2    , "Action Sci-Fi Thriller"         , "A powerful machine travels through time to protect a young boy."
+
+id	title	genre	release_date	release_year	budget	revenue	runtime	vote_average	vote_count	production_country
+1	Movie Title 1	Science Fiction, Comedy, Horror	01-01-1957	1957	36972721	130692839.8	123	4.496790402	9221	Germany
+2	Movie Title 2	Documentary, Romance	01-01-1999	1999	96359319	294797495.9	146	5.803305922	4592	China
+3	Movie Title 3	Science Fiction, Action	01-01-1941	1941	135172742	104840893.7	168	2.710639127	7146	Japan
+4	Movie Title 4	Comedy, Drama, Adventure	01-01-1961	1961	129049379	153558492.6	134	5.631398059	8363	Germany
+5	Movie Title 5	Comedy, Romance	01-01-1969	1969	151390401	100829065.8	116	4.245861897	9487	Japan
+6	Movie Title 6	Adventure	01-01-2020	2020	169912312	572492297.3	163	1.167284904	3801	India
+7	Movie Title 7	Documentary	01-01-1962	1962	47113615	230941909.3	174	3.575688069	6228	India
+8	Movie Title 8	Comedy, Romance	01-01-1960	1960	42844528	86014940.51	150	8.112310081	9485	India
+9	Movie Title 9	Horror, Science Fiction, Documentary	01-01-2007	2007	96564462	49458803.4	149	5.886860616	8356	United Kingdom
+10	Movie Title 10	Drama, Documentary	01-01-1992	1992	14771093	63537652.76	107	6.632066395	3680	China
+11	Movie Title 11	Action, Adventure, Horror	01-01-2022	2022	108056880	162986494.7	107	7.811520377	2198	India
+12	Movie Title 12	Drama, Romance, Action	01-01-2012	2012	71959669	358235086.1	169	9.092852338	4292	China
+13	Movie Title 13	Action	01-01-1964	1964	101775125	487336686.6	81	7.255066618	7318	China
+14	Movie Title 14	Comedy	01-01-1980	1980	72465635	308839133.7	81	7.306228246	3605	France
+15	Movie Title 15	Comedy, Horror, Documentary	01-01-1950	1950	144659170	629206497.4	165	2.538855625	5851	Canada
+16	Movie Title 16	Drama, Comedy	01-01-2010	2010	8140456	32455474.25	95	8.595520228	2409	United States of America
+17	Movie Title 17	Drama, Horror	01-01-1981	1981	241476905	552472681.7	131	5.474881355	6062	Germany
+18	Movie Title 18	Drama	01-01-1986	1986	7513903	19465050.96	126	6.69687343	3376	United States of America
+19	Movie Title 19	Science Fiction, Horror, Adventure	01-01-2019	2019	27224894	123216456.2	163	4.169729413	4146	Japan
+20	Movie Title 20	Science Fiction	01-01-1969	1969	2061020	7007216.934	92	6.541179363	9184	France
+21	Movie Title 21	Action, Adventure	01-01-1983	1983	45311732	124554042.9	115	3.663723588	3629	United States of America
+22	Movie Title 22	Science Fiction, Comedy	01-01-1986	1986	116045886	60243288.8	83	8.161137516	9184	Canada
+23	Movie Title 23	Horror, Drama	01-01-1990	1990	115910068	464470216.6	174	8.208298989	7447	Canada
+24	Movie Title 24	Romance, Science Fiction, Documentary	01-01-1952	1952	23432276	52833895.99	132	3.311691718	9876	Canada
+25	Movie Title 25	Horror, Science Fiction, Comedy	01-01-1941	1941	51218709	53492597.35	106	9.48149324	3341	United Kingdom
+26	Movie Title 26	Action	01-01-2016	2016	189078412	438690818.2	121	8.085209459	8845	Japan
+27	Movie Title 27	Drama	01-01-1972	1972	203975472	390397189.8	92	6.45672591	7378	United Kingdom
+28	Movie Title 28	Horror, Drama, Comedy	01-01-1985	1985	188879128	399274836.4	130	5.139105726	4275	Canada
+29	Movie Title 29	Adventure	01-01-1954	1954	94058110	303172098.7	167	4.389121651	7955	United States of America
+30	Movie Title 30	Horror	01-01-2011	2011	85697412	266653487.9	81	9.956006732	5332	United States of America
+31	Movie Title 31	Science Fiction	01-01-1993	1993	43442175	32142764.7	147	2.78212323	1654	India
+32	Movie Title 32	Adventure	01-01-1983	1983	49626664	133289000.7	118	3.244668316	1528	France
+33	Movie Title 33	Action, Comedy, Documentary	01-01-1960	1960	1581646	4869291.756	137	2.438997841	4201	Canada
+34	Movie Title 34	Romance, Documentary, Action	01-01-1970	1970	64353744	49476585.01	89	5.442250595	1825	Canada
+35	Movie Title 35	Comedy, Drama, Science Fiction	01-01-1999	1999	201455904	970911102.1	88	2.505799135	8223	United Kingdom
+36	Movie Title 36	Documentary, Action	01-01-1988	1988	51479364	87395014.97	121	2.876927074	1323	Canada
+37	Movie Title 37	Adventure	01-01-1981	1981	152204919	186449167	163	3.09115223	2976	France
+38	Movie Title 38	Adventure, Drama	01-01-1958	1958	211107826	852032772.5	95	5.487265132	5391	France
+39	Movie Title 39	Action	01-01-1944	1944	49312634	217896798.8	139	1.386095571	9313	Germany
+40	Movie Title 40	Horror, Science Fiction	01-01-1988	1988	154911965	520791520.6	155	3.490226686	6887	China
+41	Movie Title 41	Adventure, Science Fiction	01-01-1977	1977	73881783	355007718.8	133	2.035099372	2085	France
+42	Movie Title 42	Romance, Comedy	01-01-1964	1964	82491933	234640050.3	151	5.054984437	4676	China
+43	Movie Title 43	Action, Adventure	01-01-1975	1975	20752039	46987510.55	140	1.84219151	3696	United States of America
+44	Movie Title 44	Adventure	01-01-2023	2023	172695191	769075786.5	137	2.568575749	2803	Canada
+45	Movie Title 45	Romance, Adventure	01-01-1989	1989	152577095	625949128.4	101	9.438685098	4604	China
+46	Movie Title 46	Adventure, Science Fiction	01-01-1984	1984	2206624	5417705.541	112	9.366885752	3069	United Kingdom
+47	Movie Title 47	Drama, Science Fiction, Horror	01-01-1972	1972	28240715	139144608.8	103	6.871604565	4498	Germany
+48	Movie Title 48	Documentary	01-01-2024	2024	171677898	717008187	135	4.986745246	6691	India
+49	Movie Title 49	Science Fiction, Adventure	01-01-1940	1940	76328141	241591478.9	168	1.922882231	8693	Japan
+50	Movie Title 50	Horror, Science Fiction, Documentary	01-01-2005	2005	140537518	276962971.5	169	4.696785968	6357	United Kingdom
+51	Movie Title 51	Comedy, Adventure	01-01-1949	1949	1823662	6392624.954	93	2.971615137	8679	United Kingdom
+52	Movie Title 52	Adventure, Science Fiction, Action	01-01-1952	1952	243245112	307510726.3	149	4.506920103	8745	France
+53	Movie Title 53	Science Fiction, Horror	01-01-1964	1964	202372798	757978780.9	90	1.375286542	1601	India
+54	Movie Title 54	Adventure	01-01-1992	1992	172069035	693305281.9	135	8.597048994	7328	Germany
+55	Movie Title 55	Comedy, Action, Drama	01-01-1984	1984	204960348	708536856.8	86	8.570860462	9552	Canada
+56	Movie Title 56	Science Fiction, Comedy, Romance	01-01-1979	1979	184551262	667150725.4	92	1.076639664	1966	India
+57	Movie Title 57	Romance	01-01-1993	1993	217562921	728123249.1	107	1.550713672	2927	United States of America
+58	Movie Title 58	Comedy	01-01-1977	1977	89790785	124945786.3	120	9.537795405	5770	China
+59	Movie Title 59	Action, Documentary, Comedy	01-01-1975	1975	15995187	76514440.75	173	9.795556544	5461	United Kingdom
+60	Movie Title 60	Documentary, Science Fiction	01-01-2007	2007	227354588	768509099.9	88	7.365775897	540	Germany
+61	Movie Title 61	Romance, Science Fiction	01-01-1942	1942	104067239	295097052.1	95	1.828853201	91	United States of America
+62	Movie Title 62	Action, Adventure, Science Fiction	01-01-2022	2022	100592771	189531986	141	8.959991016	9990	Japan
+63	Movie Title 63	Romance, Action	01-01-2008	2008	133623174	155813150.2	131	3.441940575	5424	India
+64	Movie Title 64	Horror	01-01-1995	1995	105964004	164449797.8	156	9.729548167	3023	Germany
+65	Movie Title 65	Drama	01-01-2013	2013	213793655	426453363.5	120	8.918901952	3238	France
+66	Movie Title 66	Drama, Comedy	01-01-1988	1988	225179237	558312520.9	139	2.871204813	7675	Canada
+67	Movie Title 67	Horror	01-01-1976	1976	91194491	401882368.6	125	7.898211974	8619	China
+68	Movie Title 68	Comedy	01-01-1943	1943	80243911	294647941.5	158	8.413332784	3736	United Kingdom
+69	Movie Title 69	Adventure	01-01-1994	1994	10442266	44849419.93	162	6.564552689	9777	Canada
+70	Movie Title 70	Romance, Adventure	01-01-1974	1974	21080512	62978952.2	134	1.677104968	7566	United Kingdom
+71	Movie Title 71	Drama, Documentary, Comedy	01-01-2012	2012	187872719	355647314.7	82	1.088053634	7214	France
+72	Movie Title 72	Horror	01-01-1970	1970	224907412	964557783.1	140	2.390368628	3927	Canada
+73	Movie Title 73	Romance, Drama, Action	01-01-1963	1963	146019466	614873519.3	84	3.828037216	1210	Japan
+74	Movie Title 74	Documentary, Romance	01-01-1957	1957	202615103	510262172	137	6.946457201	6406	Germany
+75	Movie Title 75	Action, Romance	01-01-1963	1963	245293048	131618508.3	99	5.35203463	1721	India
+76	Movie Title 76	Adventure	01-01-1961	1961	29083352	75308632.53	130	7.319261769	6370	India
+77	Movie Title 77	Adventure, Action, Drama	01-01-1952	1952	108839780	223540920.3	170	1.607920127	9016	United Kingdom
+78	Movie Title 78	Drama, Action	01-01-1948	1948	183381773	511133946.9	150	5.111850334	8156	India
+79	Movie Title 79	Documentary, Action, Adventure	01-01-2008	2008	90064458	145416408	142	2.741249229	9325	France
+80	Movie Title 80	Romance, Horror, Adventure	01-01-1977	1977	166774873	87317362.2	86	8.696881478	2384	India
+81	Movie Title 81	Adventure, Drama, Horror	01-01-1971	1971	139634611	562098117.8	80	5.406923032	3263	China
+82	Movie Title 82	Drama, Horror, Science Fiction	01-01-1953	1953	194287183	857760560.1	151	9.594457664	2931	China
+83	Movie Title 83	Adventure, Science Fiction	01-01-2016	2016	153958253	432389378.5	86	4.935082607	9525	France
+84	Movie Title 84	Horror	01-01-1958	1958	196434412	429295273.6	174	4.066037824	249	United Kingdom
+85	Movie Title 85	Horror, Documentary	01-01-2007	2007	26455714	65267533.54	177	4.871425446	2353	Canada
+86	Movie Title 86	Action, Documentary	01-01-1990	1990	8585641	39774059.1	154	4.562591371	21	Canada
+87	Movie Title 87	Drama, Action	01-01-2015	2015	178751433	100173113.1	130	5.855446713	5659	Japan
+88	Movie Title 88	Drama, Romance	01-01-1983	1983	200503564	833610237.5	149	9.574984146	6965	India
+89	Movie Title 89	Romance, Documentary	01-01-1942	1942	182109091	144882768	168	2.905311269	1913	France
+90	Movie Title 90	Romance, Comedy, Documentary	01-01-2010	2010	234192539	616758957	132	4.997957182	8535	Canada
+91	Movie Title 91	Documentary, Science Fiction, Comedy	01-01-2017	2017	11357818	36562077.1	145	8.741617405	6030	France
+92	Movie Title 92	Action, Romance, Documentary	01-01-1983	1983	189606714	218102305.2	80	7.021649648	1697	China
+93	Movie Title 93	Action, Comedy, Romance	01-01-1946	1946	198535533	724150488	115	8.288106209	2658	China
+94	Movie Title 94	Documentary	01-01-2008	2008	208748495	654800142.2	158	9.501684443	6930	Japan
+95	Movie Title 95	Science Fiction, Action	01-01-1951	1951	118766377	193828741	130	9.510432627	6166	United States of America
+96	Movie Title 96	Adventure, Romance, Action	01-01-1963	1963	154295031	418773881.8	152	5.176100006	5874	United States of America
+97	Movie Title 97	Romance	01-01-1954	1954	229800243	468529903.1	143	1.545710285	8398	France
+98	Movie Title 98	Romance, Documentary, Horror	01-01-1994	1994	239347042	1105000101	83	1.724017878	7113	United States of America
+99	Movie Title 99	Comedy, Drama	01-01-2022	2022	172874604	806642756	168	1.491389064	9916	Japan
+100	Movie Title 100	Science Fiction, Drama	01-01-2000	2000	3892348	4004653.701	125	7.68778061	9622	United Kingdom
